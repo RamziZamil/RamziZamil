@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamziZamil
+- 👋 Hi, I’m Ramzi Ahmad Zamil
 
 - 🌱 I’m currently learning Web Development to be a Full Stack Developer
 
