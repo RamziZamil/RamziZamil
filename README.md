@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzizamil&label=Profile%20views&color=0e75b6&style=flat" alt="ramzizamil" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramzizamil" alt="ramzizamil" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://ramzizamil.github.io/Ramzi-Portfolio/](https://ramzizamil.github.io/Ramzi-Portfolio/)
 
 - 📫 How to reach me **ramzizamill@gmail.com**
@@ -21,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramzizamil&show_icons=true&locale=en&layout=compact" alt="ramzizamil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramzizamil&show_icons=true&locale=en" alt="ramzizamil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramzizamil&" alt="ramzizamil" /></p>
