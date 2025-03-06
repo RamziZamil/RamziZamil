@@ -23,4 +23,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ramzizamil&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ramzizamil&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzizamil&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzizamil&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ramzizamil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
