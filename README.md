@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramzizamil" alt="ramzizamil" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ramzizamil.github.io/Ramzi-Portfolio/](https://ramzizamil.github.io/Ramzi-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ramzizamil.github.io/Ramzi-Portfolio/)
 
 - 📫 How to reach me **ramzizamill@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WPEa-hG2tUI-ffehceWmXrXX5qPd6WKh/view?usp=sharing](https://drive.google.com/file/d/1WPEa-hG2tUI-ffehceWmXrXX5qPd6WKh/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WPEa-hG2tUI-ffehceWmXrXX5qPd6WKh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
